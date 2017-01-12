@@ -1,12 +1,20 @@
 {
-  "name": "Movies",
+  "name": "Find",
   "version": "1.0.0",
-  "description": "",
+  "description": "Find movie collection from vidoes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "find",
+    "movies",
+    "awesome"
+  ],
   "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "assert": "1.4.1",
+    "mongodb": "2.2.20"
+  }
 }
