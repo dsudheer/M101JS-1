@@ -3,6 +3,7 @@
 ## To run
 
 ```javascript
+npm install
 node index.js
 ```
 
