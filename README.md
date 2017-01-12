@@ -14,6 +14,8 @@ Jan 17, 2017 17:00 UTC
 
 * [Hello-World-Express](https://github.com/ragmha/M101JS/tree/Week-1/Hello-World-Express)
 
+* [Hello-World-Templates](https://github.com/ragmha/M101JS/tree/Week-1/Hello-World-Templates)
+
 * [Find](https://github.com/ragmha/M101JS/tree/Week-1/Find)
 
 ## Homework :zap:
