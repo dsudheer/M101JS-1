@@ -18,6 +18,8 @@ Jan 17, 2017 17:00 UTC
 
 * [Find](https://github.com/ragmha/M101JS/tree/Week-1/Find)
 
+* [All-Together](https://github.com/ragmha/M101JS/tree/Week-1/All-Together)
+
 ## Homework :zap:
 
 ## Solution :lock:
