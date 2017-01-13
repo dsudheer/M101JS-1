@@ -20,6 +20,8 @@ Jan 17, 2017 17:00 UTC
 
 * [All-Together](https://github.com/ragmha/M101JS/tree/Week-1/All-Together)
 
+* [Express(Handling GET requests)](https://github.com/ragmha/M101JS/tree/Week-1/Express-Handling-GET-Requests)
+
 ## Homework :zap:
 
 ## Solution :lock:
