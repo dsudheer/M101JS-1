@@ -10,17 +10,17 @@ Jan 17, 2017 17:00 UTC
 
 ## Examples :bulb:
 
-* [Hello-World](https://github.com/ragmha/M101JS/tree/Week-1/Hello-World)
+* [Hello-World](https://github.com/ragmha/M101JS/tree/Week-1/Examples/Hello-World)
 
-* [Hello-World-Express](https://github.com/ragmha/M101JS/tree/Week-1/Hello-World-Express)
+* [Hello-World-Express](https://github.com/ragmha/M101JS/tree/Week-1/Examples/Hello-World-Express)
 
-* [Hello-World-Templates](https://github.com/ragmha/M101JS/tree/Week-1/Hello-World-Templates)
+* [Hello-World-Templates](https://github.com/ragmha/M101JS/tree/Week-1/Examples/Hello-World-Templates)
 
-* [Find](https://github.com/ragmha/M101JS/tree/Week-1/Find)
+* [Find](https://github.com/ragmha/M101JS/tree/Week-1/Examples/Find)
 
-* [All-Together](https://github.com/ragmha/M101JS/tree/Week-1/All-Together)
+* [All-Together](https://github.com/ragmha/M101JS/tree/Week-1/Examples/All-Together)
 
-* [Express(Handling GET requests)](https://github.com/ragmha/M101JS/tree/Week-1/Express-Handling-GET-Requests)
+* [Express(Handling GET requests)](https://github.com/ragmha/M101JS/tree/Week-1/Examples/Express-Handling-GET-Requests)
 
 ## Homework :zap:
 
