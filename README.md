@@ -24,4 +24,13 @@ Jan 17, 2017 17:00 UTC
 
 ## Homework :zap:
 
+* [hw1-1](https://github.com/ragmha/M101JS/tree/Week-1/Homework/hw1-1)
+
+* [hw1-2](https://github.com/ragmha/M101JS/tree/Week-1/Homework/hw1-2)
+* [hw1-3](https://github.com/ragmha/M101JS/tree/Week-1/Homework/hw1-3)
+
 ## Solution :lock:
+* [sol1-1](https://github.com/ragmha/M101JS/tree/Week-1/Solution/sol1-1)
+
+* [sol1-2](https://github.com/ragmha/M101JS/tree/Week-1/Solution/sol1-2)
+* [sol1-3](https://github.com/ragmha/M101JS/tree/Week-1/Solution/sol1-3)
