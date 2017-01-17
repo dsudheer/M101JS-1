@@ -1,12 +1,16 @@
 # M101JS
--------
+
 MongoDB for Node.js Developers ✌️
 --
+## Key
 
+* 🚧 - TODO..
+
+* 🔥 - done
 
 |    Units       |    Topics      |    Deadline    |   Progress    |      Links    |
 | :------------- | :------------- | :------------- | :-------------| :-------------|
-| **Week 1: Introduction**| Introduction to MongoDB and the Node.js driver; Installing MongoDB; Installing Node.js and using NPM; Introduction to the Mongo Shell, JSON, BSON, and the MongoDB query language; Introduction to building web applications using Express| Jan 17, 2017 17:00 UTC| :construction: :construction: | https://git.io/vMzZv |
+| **Week 1: Introduction**| Introduction to MongoDB and the Node.js driver; Installing MongoDB; Installing Node.js and using NPM; Introduction to the Mongo Shell, JSON, BSON, and the MongoDB query language; Introduction to building web applications using Express| Jan 17, 2017 17:00 UTC| 🔥 🔥 🔥 | https://git.io/vMzZv |
 | **Week 2: CRUD**|	Mongo Shell, Query Operators, Update Operators and a Few Commands|	Jan 24, 2017 17:00 UTC|:construction: :construction: | |
 | **Week 3: The Node.js Driver**|	Deeper dive on the Node.js driver; CRUD operations in the driver; Cursors; writing applications in the driver|Jan 31, 2017 17:00 UTC|:construction: :construction:| |
 |**Week 4: Schema Design**|	Patterns, Case Studies & Tradeoffs| Feb 07, 2017 17:00 UTC |:construction: :construction:| |
